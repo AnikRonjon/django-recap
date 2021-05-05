@@ -9,8 +9,9 @@ cd Django-Form-View
 
 ## create virtualenv and active it and install all dependencies
 ```
+pip install virtualenv
 virtualenv env
-env\Scripts\acitvate
+env\Scripts\activate
 pip install -r requirements.txt
 ```
 
