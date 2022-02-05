@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## Migrate the project and create super user.
 ```
 py manage.py migrate
-py magage.py createsuperuser --username=yourname --email=youremail
+py magage.py createsuperuser
 ```
 
 ## Now Run the Project
